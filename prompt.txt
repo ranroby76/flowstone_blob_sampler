@@ -1,0 +1,10 @@
+this project uses dsp robotics flowstone sdk to buld a blob based sampler primitive. 
+
+system path: D:\Workspace\flowstone_modules\blob_sampler
+FLOWSTONE SDK: D:\Workspace\FLOWSTONE_SDK (ALSO ATTACHED AS A FULL CODE DOCUMENT) 
+
+always print full fixed files
+always mark full file paths for fixes WITH "#" PREFIX
+Avoid of long summaries, guides and references documents after fixes, unless i told you to do it. 
+never hesitate to ask any file reference or file location when needed. 
+READ EVERYTHING AND VERIFY YOU UNDERSTAND THE PROJECT
